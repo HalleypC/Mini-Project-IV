@@ -41,7 +41,7 @@ I chose a Random Forest Classifier as my model. I created a pipeline to include 
 I then saved my model to a pickle file and created an app python file to be deployed to the AWS cloud. Once deployed the scoring results of the model could be testing within my notebook. 
 
 ## Results/Demo
-My model's best performance was 80.6% accurate. 
+My model's best performance had a score of 0.77. 
 
 ## Challanges 
 I struggled with custom functions that could be added to my pipeline.
