@@ -9,7 +9,6 @@ The objective of this project was to create a Supervised Machine Learning model 
 My hypotesis is that applicants with higher education level are more likely to get a loan. I tested this through descriptive statistics and comparative plotting.
 
 ## EDA 
-(fill in what you discovered in your exploration of the dataset)
 In my first notebook you will find my EDA where I obtained some insight into the data and identified patterns. Immediately we see that all three monetary features were skewed and contained vaying amounts of outliers. I saw that there were more applicants who were childless, married men, who were graduates, but not self employed wiht a credit history. There were also more successful loan applications than not.
 
 From the boxplots we can more clearly see the outliers. Here are a few patters I noticed:
@@ -31,7 +30,7 @@ From the boxplots we can more clearly see the outliers. Here are a few patters I
 - More graduates apply for loans than non-grads. 70.8% of graduates are successful with their loan applications, only 61.2% of non-grads are successful
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
+
 ### EDA
 Explored the data through descriptive statistics, various plots, and pivot tables
 ### Pre-Processsing
